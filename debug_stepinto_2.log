@@ -1,0 +1,342 @@
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_BRK_CTL=BNS
+zdi-1: ZDI_BRK_CTL=BN
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_RW_CTL:Read PC
+zdi-1: ZDI_RD_L=0x1
+zdi-1: ZDI_RD_H=0x0
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_RW_CTL:Read PC
+zdi-1: ZDI_RD_L=0x1
+zdi-1: ZDI_RD_H=0x0
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_RW_CTL:Read PC
+zdi-1: ZDI_RD_L=0x1
+zdi-1: ZDI_RD_H=0x0
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_RW_CTL:Read IX
+zdi-1: ZDI_RD_L=0x55
+zdi-1: ZDI_RD_H=0x55
+zdi-1: ZDI_RD_U=0x55
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RD_L=0x0
+zdi-1: ZDI_RD_H=0x55
+zdi-1: ZDI_RW_CTL:Read BC
+zdi-1: ZDI_RD_L=0x55
+zdi-1: ZDI_RD_H=0x55
+zdi-1: ZDI_RD_U=0x55
+zdi-1: ZDI_RW_CTL:Read DE
+zdi-1: ZDI_RD_L=0x55
+zdi-1: ZDI_RD_H=0x55
+zdi-1: ZDI_RD_U=0x55
+zdi-1: ZDI_RW_CTL:Read HL
+zdi-1: ZDI_RD_L=0x55
+zdi-1: ZDI_RD_H=0x55
+zdi-1: ZDI_RD_U=0x55
+zdi-1: ZDI_RW_CTL:Read HL
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RD_L=0x0
+zdi-1: ZDI_RD_H=0x0
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RW_CTL:Read BC
+zdi-1: ZDI_RD_L=0xfb
+zdi-1: ZDI_RD_H=0xbf
+zdi-1: ZDI_RD_U=0xee
+zdi-1: ZDI_RW_CTL:Read BC
+zdi-1: ZDI_RW_CTL:Read BC
+zdi-1: ZDI_RW_CTL:Read DE
+zdi-1: ZDI_RD_L=0xb3
+zdi-1: ZDI_RD_H=0x9f
+zdi-1: ZDI_RD_U=0xdd
+zdi-1: ZDI_RW_CTL:Read DE
+zdi-1: ZDI_RW_CTL:Read DE
+zdi-1: ZDI_RW_CTL:Read HL
+zdi-1: ZDI_RD_L=0xf6
+zdi-1: ZDI_RD_H=0x66
+zdi-1: ZDI_RD_U=0xbf
+zdi-1: ZDI_RW_CTL:Read HL
+zdi-1: ZDI_RW_CTL:Read IX
+zdi-1: ZDI_RD_L=0x55
+zdi-1: ZDI_RD_H=0x55
+zdi-1: ZDI_RD_U=0x55
+zdi-1: ZDI_RW_CTL:Read IY
+zdi-1: ZDI_RD_L=0x55
+zdi-1: ZDI_RD_H=0x55
+zdi-1: ZDI_RD_U=0x55
+zdi-1: ZDI_RW_CTL:Read PC
+zdi-1: ZDI_RD_L=0x1
+zdi-1: ZDI_RD_H=0x0
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_IS1=0x57
+zdi-1: ZDI_IS0=0xed
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RD_L=0x1
+zdi-1: ZDI_IS1=0x5f
+zdi-1: ZDI_IS0=0xed
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RD_L=0x72
+zdi-1: ZDI_RD_H=0x1
+zdi-1: ZDI_RW_CTL:Read SP
+zdi-1: ZDI_RD_L=0x0
+zdi-1: ZDI_RD_H=0x0
+zdi-1: ZDI_RD_U=0xa
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_RW_CTL:Reset ADL
+zdi-1: ZDI_RW_CTL:Read SP
+zdi-1: ZDI_RD_L=0xff
+zdi-1: ZDI_RD_H=0xff
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_WR_U=0x0
+zdi-1: ZDI_WR_H=0x0
+zdi-1: ZDI_WR_L=0x1
+zdi-1: ZDI_RW_CTL:Write PC=0x1
+zdi-1: ZDI_RW_CTL:Write PC=0x1
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_WR_U=0x0
+zdi-1: ZDI_WR_H=0x55
+zdi-1: ZDI_WR_L=0x0
+zdi-1: ZDI_RW_CTL:Write {MBASE, A, F}=0x5500
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_RW_CTL:Read PC
+zdi-1: ZDI_RD_L=0x1
+zdi-1: ZDI_RD_H=0x0
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_RW_CTL:Read PC
+zdi-1: ZDI_RD_L=0x1
+zdi-1: ZDI_RD_H=0x0
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RD_L=0x0
+zdi-1: ZDI_RD_H=0x55
+zdi-1: ZDI_RD_U=0x0
+zdi-1: ZDI_IS2=0xdb
+zdi-1: ZDI_IS1=0x38
+zdi-1: ZDI_IS0=0xed
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RD_L=0x0
+zdi-1: ZDI_IS2=0xdc
+zdi-1: ZDI_IS1=0x38
+zdi-1: ZDI_IS0=0xed
+zdi-1: ZDI_RW_CTL:Read {MBASE, A, F}
+zdi-1: ZDI_RD_L=0x0
+zdi-1: ZDI_WR_L=0x1
+zdi-1: ZDI_WR_H=0x0
+zdi-1: ZDI_WR_U=0x0
+zdi-1: ZDI_RW_CTL:Write PC=0x1
+zdi-1: ZDI_WR_L=0x0
+zdi-1: ZDI_WR_H=0x55
+zdi-1: ZDI_WR_U=0x0
+zdi-1: ZDI_RW_CTL:Write {MBASE, A, F}=0x5500
+zdi-1: ZDI_RW_CTL:Set ADL
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi
+zdi-1: ZDI_STAT=ZhAMi

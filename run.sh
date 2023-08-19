@@ -1,0 +1,13 @@
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_remove_bp.sr -P zdi -A zdi=action > debug_removebp.log
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_stepover.sr -P zdi -A zdi=action > debug_stepover.log
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_stepover.sr -P zdi -A zdi=action > debug_stepover.log
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_remove_bp.sr -P zdi -A zdi=action > debug_removebp.log
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_setbp.sr -P zdi -A zdi=action > debug_setbp.log       
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_hitbp.sr -P zdi -A zdi=action > debug_hitbp.log       
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_waitbp.sr -P zdi -A zdi=action > debug_waitbp.log     
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_cont.sr -P zdi -A zdi=action > debug_cont.log         
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_break.sr -P zdi -A zdi=action > debug_break.log 
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_nothing.sr -P zdi -A zdi=action > debug_nothing.log
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/setbp_0x03_reset_step_into.sr -P zdi -A zdi=action > setbp_0x03_reset_step_into.log
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_stepover2.sr -P zdi -A zdi=action > debug_stepover2.log            
+SIGROKDECODE_DIR=/Users/mario/Development/AgonLight/hardware/ZDI sigrok-cli -i captures/debug_stepinto.sr -P zdi -A zdi=action > debug_stepinto.log
